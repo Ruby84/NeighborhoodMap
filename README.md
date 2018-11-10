@@ -8,8 +8,8 @@ This is the neighborhood map project for Udacity's React course.Built a single m
 
 
 ## How to open/run the map: 
-1.Please download/clone the repository(https://github.com/Ruby84/NeighborhoodMap) 
-??  2.open index.html in browser and you can run the map:
+1. Please download/clone the repository [here!](https://github.com/Ruby84/NeighborhoodMap). 
+2. open index.html in browser and you can run the map:
 ## Available Scripts
 
 In the project directory, you can run:
