@@ -4,7 +4,7 @@
 
 ##Short description about your project: 
 
-This is the neighborhood map project for Udacity's React course.Built a single map application using a React and the Google Maps API. The goal of this Project is Using CSS, HTML markup, React code, Nodejs,create-react-app, Bootstrap ????. This App serves as a neighborhood map that provides features like a search function that searches the map to find a specific restuarant. In addition, integrates a third-party data API and makes the app accessible and usable offline. Focus is appropriately managed allowing users to noticeably tab through each of the important elements of the page. Modal or interstitial windows appropriately lock focus.All content-related images include appropriate alternate text that clearly describes the content of the image.
+This is the neighborhood map project for Udacity's React course.Built a single map application using a React and the Google Maps API. The goal of this Project is Using CSS, HTML markup, React code, Nodejs,create-react-app, Bootstrap. This App serves as a neighborhood map that provides features like a search function that searches the map to find a specific restuarant. In addition, integrates a third-party data API and makes the app accessible and usable offline. Focus is appropriately managed allowing users to noticeably tab through each of the important elements of the page. Modal or interstitial windows appropriately lock focus.All content-related images include appropriate alternate text that clearly describes the content of the image.
 
 
 ## How to open/run the map: 
